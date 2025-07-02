@@ -1,7 +1,7 @@
 - 👋 Hey, I’m Abhijeet
-- 🔭 I'm currently working on MERN Stack
-- 💭 Ask me about JAVA, ReactJS & Data Structures and Algorithms
-- 🌱 I’m currently learning DSA(JAVA)
+- 🔭 I'm currently working on building scalable real-world applications
+- 💭 Ask me about JAVA, NextJS, ReactJS, DevOps & Data Structures and Algorithms
+- 🌱 I’m currently learning Spring Boot
 - 👯 I’m looking to collaborate on Development Based Projects
 - 📫 How to reach me abhijeetgupta989@gmail.com 
 <!---
